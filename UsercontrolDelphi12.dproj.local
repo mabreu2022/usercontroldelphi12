@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2025/07/16 09:31:28.000.226,=C:\Users\Mauricio Abreu\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/16 09:34:34.000.013,C:\Users\Mauricio Abreu\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\FONTES\usercontrol\Unit1.dfm</Transaction>
+    <Transaction>2025/07/16 09:34:34.000.013,C:\Users\Mauricio Abreu\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\FONTES\usercontrol\Unit1.pas</Transaction>
+    <Transaction>2025/07/16 09:34:37.000.940,C:\Users\Mauricio Abreu\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\FONTES\usercontrol\Project1.dproj</Transaction>
+    <Transaction>2025/07/16 09:34:51.000.973,C:\FONTES\usercontrol\Project1.dproj=C:\FONTES\usercontrol\UsercontrolDelphi12.dproj</Transaction>
+    <Transaction>2025/07/16 09:46:43.470,=C:\FONTES\usercontrol\Unit2.pas</Transaction>
+    <Transaction>2025/07/16 09:52:02.568,C:\FONTES\usercontrol\DAO\uDM.dfm=C:\FONTES\usercontrol\Unit2.dfm</Transaction>
+    <Transaction>2025/07/16 09:52:02.568,C:\FONTES\usercontrol\DAO\uDM.pas=C:\FONTES\usercontrol\Unit2.pas</Transaction>
+    <Transaction>2025/07/16 09:58:36.234,C:\FONTES\usercontrol\View\uPrincipal.dfm=C:\FONTES\usercontrol\Unit1.dfm</Transaction>
+    <Transaction>2025/07/16 09:58:36.234,C:\FONTES\usercontrol\View\uPrincipal.pas=C:\FONTES\usercontrol\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>

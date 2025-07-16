@@ -1,0 +1,14 @@
+{
+	"hash": "d41d8cd98f00b204e9800998ecf8427e",
+	"updated": "2025-07-16T09:36:02.6199462-03:00",
+	"installedModules": {
+		"https://github.com/infussolucoes/usercontrol-sd": {
+			"name": "usercontrol-sd",
+			"version": "master",
+			"hash": "bdc63ab98b92eb4a8466919c86e7af22",
+			"artifacts": {},
+			"failed": false,
+			"changed": false
+		}
+	}
+}
